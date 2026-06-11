@@ -1,0 +1,15 @@
+# Binaries and build outputs
+/bin/
+myrax-*
+
+# Cache and local tools
+.cache/
+.idea/
+.vscode/
+*.log
+
+# Node dependencies
+/web/node_modules/
+
+# Built web assets
+/internal/webassets/dist/

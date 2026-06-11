@@ -1,0 +1,5 @@
+# Installed deployments bind to 0.0.0.0 so the panel is reachable remotely.
+# For local-only access, change host to "127.0.0.1".
+host = "0.0.0.0"
+port = 1487
+add_ons = false
